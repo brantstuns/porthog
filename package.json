@@ -1,0 +1,12 @@
+{
+  "name": "porthog",
+  "version": "1.0.0",
+  "description": "a little cli tool for killing processes hogging your ports ",
+  "main": "porthog.js",
+  "author": "Brant Stuns",
+  "license": "MIT",
+  "private": false,
+  "bin": {
+    "porthot": "./porthog.js"
+  }
+}
