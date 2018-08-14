@@ -7,6 +7,9 @@
   "license": "MIT",
   "private": false,
   "bin": {
-    "porthot": "./porthog.js"
+    "porthog": "./porthog.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1"
   }
 }
